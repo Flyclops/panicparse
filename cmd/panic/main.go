@@ -29,7 +29,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/maruel/panicparse/cmd/panic/internal"
+	"github.com/Flyclops/panicparse/cmd/panic/internal"
 )
 
 // Utility functions.
